@@ -29,3 +29,7 @@ and those reported in the original study, offering insights into the reproducibi
 practical applicability of the proposed methods. This work not only validates the original
 findings but also highlights areas for potential enhancement in future EEG classification
 systems.
+
+[1] A. Subasi and M. Ismail Gursoy, “Eeg signal classification using pca, ica, lda and
+support vector machines,” Expert Systems with Applications, vol. 37, no. 12, pp. 8659–
+8666, 2010.
